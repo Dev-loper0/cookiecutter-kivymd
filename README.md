@@ -16,5 +16,6 @@ python3 main.py
 ```
 # Dependencies
   - Kivy version is not less than 1.10.1
+  - Kivymd 
   - PIL
   - Python 3 (Python 2 not supported)
